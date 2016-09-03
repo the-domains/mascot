@@ -1,25 +1,25 @@
 ---
+datePublished: '2016-08-31T20:21:43.659Z'
+sourcePath: _posts/2015-12-26-southern-cowboy.md
 inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: false
-keywords: []
-description: ''
-datePublished: '2015-12-26T18:55:55.167Z'
-dateModified: '2015-12-26T18:55:32.533Z'
-title: Southern Cowboy
-author: []
 authors: []
+hasPage: true
+keywords: []
+author: []
+dateModified: '2016-08-31T20:21:43.329Z'
+title: ''
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-southern-cowboy.md
-published: true
+description: ''
+inLanguage: null
+inNav: false
+via: {}
+starred: true
 url: southern-cowboy/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2685edad-9153-492f-a182-bbfb4ca16dc6.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/39c67274a5496e360ec1b719dc9a31bfb3719368.png)
