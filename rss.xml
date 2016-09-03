@@ -4,21 +4,21 @@
         <description><![CDATA[Mascot]]></description>
         <link>https://thegrid.ai/mascot/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 20:57:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 20:21:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mascot/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Southern Cowboy]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39c67274a5496e360ec1b719dc9a31bfb3719368.png">]]></description>
+            <link>https://thegrid.ai/mascot/southern-cowboy/index.html</link>
+            <guid isPermaLink="false">af04d394-1c72-4b0f-8a20-345a9e2e79ec</guid>
+            <pubDate>Wed, 31 Aug 2016 20:21:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Title of the post, what?]]></title>
-            <description><![CDATA[<article><h1>Title of the post, what?</h1><p>What is going on?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8b37b0fd44e8f6e044760af2647acea2ef5c319.png"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ecaa4ae9-a8e1-4ee6-b729-5fcbdb1a80d8.png">]]></description>
             <link>https://thegrid.ai/mascot/title-of-the-post-what/index.html</link>
             <guid isPermaLink="false">29f1ba90-c237-4640-a068-c53be373c331</guid>
             <pubDate>Sat, 26 Dec 2015 20:57:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Southern Cowboy]]></title>
-            <description><![CDATA[<article><h1>Southern Cowboy</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/39c67274a5496e360ec1b719dc9a31bfb3719368.png"></article>]]></description>
-            <link>https://thegrid.ai/mascot/southern-cowboy/index.html</link>
-            <guid isPermaLink="false">af04d394-1c72-4b0f-8a20-345a9e2e79ec</guid>
-            <pubDate>Sat, 26 Dec 2015 18:55:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
